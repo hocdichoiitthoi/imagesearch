@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-03-08T03:59:28.452731",
+    "startedAt": "2024-03-08T03:59:26.846833",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/baok3/image-search-engine.git",
+        "commit": "16f035e840fd2207d79ccd3956d8f91af267f094"
+    },
+    "email": "quanbaonguyen03@gmail.com",
+    "root": "D:/C/vscode/image-search-engine",
+    "host": "Nguyen-Quan-Bao",
+    "username": "quanb",
+    "executable": "c:\\Users\\quanb\\anaconda3\\envs\\ts\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 293.17675399780273,
+            "used": 197.45994567871094
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.825950622558594
+    }
+}
